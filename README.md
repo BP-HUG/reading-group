@@ -17,6 +17,10 @@ If you want to continue the discussion, or have problems with the assignments, c
 
 * **2016-10-13**: We held our first proper gathering and discussed the first four chapters. The next assignment is from Chapters 5 (Types) through 8 (Recursion). The final date for the meetup will be posted on the [group's site][bphug].
 
+* **2016-11-17**: We discussed Chapter 5.
+
+* **2017-01-19**: We discussed Chapter 6, and 7. 
+
 ## Useful links
 
 *   The authors of the book have a great [write-up][install] about installing Haskell (the book's code is compatible with GHC 7.8 through 8, but we recommend you use min. 7.10.3 for the group).
